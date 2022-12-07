@@ -8,7 +8,7 @@
 
 ## Welcome to my fortress, built commit by commit 🏰.
 
-### My name is Trevor and I live in Central Florida, but call me Trev or devTrev or T-money: whichever you prefer 😎
+### My name is Trevor and I live in Central Florida, but call me Trev or devTrev or T-money: whichever you prefer😎
 
 <h3>If it weren't for these beauties right here... I'd probably be programming with Rust</h3>
 <p>
