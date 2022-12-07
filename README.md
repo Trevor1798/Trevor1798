@@ -10,7 +10,7 @@
 
 ### My name is Trevor and I live in Central Florida, but call me Trev or devTrev or T-money: whichever you prefer 😎
 
-<h3>If it weren't for these beauties right here</h3>
+<h3>If it weren't for these beauties right here... I'd probably be programming with Rust</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
