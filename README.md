@@ -1,7 +1,9 @@
 
 <!-- ![github](https://user-images.githubusercontent.com/102115797/206318027-d79ec17e-75c3-4e12-84dc-229d296f6d3e.gif?width=300px&height=20px) -->
 
-# Hi there 👋
+# <p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Trevor 👋 I'm a 🚀 Software Engineer 🚀 I ❤️ Trading ❤️">
+</p>
 
 ## Welcome to my fortress, built commit by commit 🏰.
 
