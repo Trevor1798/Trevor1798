@@ -2,7 +2,8 @@
 <!-- ![github](https://user-images.githubusercontent.com/102115797/206318027-d79ec17e-75c3-4e12-84dc-229d296f6d3e.gif?width=300px&height=20px) -->
 
 # <p align="center">
-  <img src="![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/102115797/206321433-aaedd56f-106d-48d0-9aed-1242ae7886b5.gif)" alt="Hi, I'm Trevor 👋 I'm a 🚀 Software Engineer 🚀 I ❤️ Trading ❤️">
+ ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/102115797/206321473-24b3f620-a42f-4a5e-89ce-0d162c5665d0.gif)
+
 </p>
 
 ## Welcome to my fortress, built commit by commit 🏰.
