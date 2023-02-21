@@ -41,7 +41,7 @@
 - ⚡ Fun fact: I'm a huge gamer!
  
  
- ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevor1798&show_icons=true&&theme=dark&custom_title=Stats&hide=contribs&line_height=40) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevor1798&show_icons=true&&theme=dark&custom_title=Stats&hide=contribs&line_height=32)(https://github.com/Trevor1798/github-readme-stats)
+ ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevor1798&show_icons=true&&theme=dark&custom_title=Stats&hide=contribs&line_height=40) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevor1798&show_icons=true&&theme=dark&custom_title=Stats&hide=contribs&line_height=40)(https://github.com/Trevor1798/github-readme-stats)
 
 <!--  [![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevor1798)](https://github.com/trevor1798/github-readme-stats) -->
   <h3>Where to find me</h3>
