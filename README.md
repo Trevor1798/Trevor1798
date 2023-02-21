@@ -39,6 +39,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trevor-jones-0b8a57259/)
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I'm a huge gamer!
+ 
+ 
  ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevor1798&show_icons=true&theme=transparent&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schaeffy)](https://github.com/schaeffy/github-readme-stats)
 
 <!--  [![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevor1798)](https://github.com/trevor1798/github-readme-stats) -->
