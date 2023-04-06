@@ -8,7 +8,7 @@
 
 ## Welcome to my fortress, built commit by commit 🏰.
 
-### My name is Trevor and I live in Central Florida, but call me Trev or devTrev 😎
+### My name is Trevor and I live in Central Florida, but call me Trev or devTrev  😎
 
 <h3>Lets admire this beautiful stack of technologies</h3>
 <p>
