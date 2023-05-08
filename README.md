@@ -37,7 +37,7 @@
 - 🤔 I’m looking for help with Docker 
 - 💬 Ask me about video games
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trevor-jones-0b8a57259/)
-- ⚡  Fun fact: I'm a huge gamer!
+- ⚡ Fun fact: I'm a huge gamer!
  
  
 <!--  ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevor1798&show_icons=true&theme=blue&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevor1798)](https://github.com/Trevor1798/github-readme-stats)
