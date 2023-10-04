@@ -10,7 +10,7 @@
 
 ### My name is Trevor and I live in Central Florida, but call me Trev or devTrev  😎
 
-<h3>Lets admire this beautiful stack of technologies</h3>
+<h3>Just some tech I've learned along the way.</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
